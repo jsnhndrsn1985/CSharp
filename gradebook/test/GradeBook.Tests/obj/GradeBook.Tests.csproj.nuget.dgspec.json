@@ -4,14 +4,14 @@
     "C:\\Repos\\CSharp\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\CSharp\\gradebook\\src\\Gradebook\\GradeBook.csproj": {
+    "C:\\Repos\\CSharp\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\CSharp\\gradebook\\src\\Gradebook\\GradeBook.csproj",
+        "projectUniqueName": "C:\\Repos\\CSharp\\gradebook\\src\\GradeBook\\GradeBook.csproj",
         "projectName": "GradeBook",
-        "projectPath": "C:\\Repos\\CSharp\\gradebook\\src\\Gradebook\\GradeBook.csproj",
+        "projectPath": "C:\\Repos\\CSharp\\gradebook\\src\\GradeBook\\GradeBook.csproj",
         "packagesPath": "C:\\Users\\jsnhn\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\CSharp\\gradebook\\src\\Gradebook\\obj\\",
+        "outputPath": "C:\\Repos\\CSharp\\gradebook\\src\\GradeBook\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -85,8 +85,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Repos\\CSharp\\gradebook\\src\\Gradebook\\GradeBook.csproj": {
-                "projectPath": "C:\\Repos\\CSharp\\gradebook\\src\\Gradebook\\GradeBook.csproj"
+              "C:\\Repos\\CSharp\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
+                "projectPath": "C:\\Repos\\CSharp\\gradebook\\src\\GradeBook\\GradeBook.csproj"
               }
             }
           }
