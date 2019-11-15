@@ -92,3 +92,6 @@ C:\Repos\CSharp\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp3.0\GradeBook
 C:\Repos\CSharp\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp3.0\GradeBook.Tests.csproj.CopyComplete
 C:\Repos\CSharp\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp3.0\GradeBook.Tests.dll
 C:\Repos\CSharp\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp3.0\GradeBook.Tests.pdb
+C:\Repos\CSharp\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp3.0\GradeBook.exe
+C:\Repos\CSharp\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp3.0\GradeBook.dll
+C:\Repos\CSharp\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp3.0\GradeBook.pdb
