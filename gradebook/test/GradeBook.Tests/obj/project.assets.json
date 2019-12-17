@@ -6498,8 +6498,8 @@
     },
     "GradeBook/1.0.0": {
       "type": "project",
-      "path": "../../src/Gradebook/GradeBook.csproj",
-      "msbuildProject": "../../src/Gradebook/GradeBook.csproj"
+      "path": "../../src/GradeBook/GradeBook.csproj",
+      "msbuildProject": "../../src/GradeBook/GradeBook.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6518,11 +6518,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Repos\\CSharp\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
+      "projectUniqueName": "C:\\Repos\\CSharp\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
       "projectName": "GradeBook.Tests",
-      "projectPath": "c:\\Repos\\CSharp\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
+      "projectPath": "C:\\Repos\\CSharp\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
       "packagesPath": "C:\\Users\\jsnhn\\.nuget\\packages\\",
-      "outputPath": "c:\\Repos\\CSharp\\gradebook\\test\\GradeBook.Tests\\obj\\",
+      "outputPath": "C:\\Repos\\CSharp\\gradebook\\test\\GradeBook.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6541,8 +6541,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "c:\\Repos\\CSharp\\gradebook\\src\\Gradebook\\GradeBook.csproj": {
-              "projectPath": "c:\\Repos\\CSharp\\gradebook\\src\\Gradebook\\GradeBook.csproj"
+            "C:\\Repos\\CSharp\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
+              "projectPath": "C:\\Repos\\CSharp\\gradebook\\src\\GradeBook\\GradeBook.csproj"
             }
           }
         }

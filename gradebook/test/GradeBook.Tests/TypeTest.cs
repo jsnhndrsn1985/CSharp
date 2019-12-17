@@ -30,7 +30,7 @@ namespace GradeBook.Tests
       string name = "Scott";
       MakeUpperCase(name);
 
-      Assert.Equal("SCOTT", name);
+      Assert.Equal("Scott", name);
     }
 
     private void MakeUpperCase(string parameter)
